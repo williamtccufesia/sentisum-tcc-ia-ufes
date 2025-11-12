@@ -1,0 +1,536 @@
+Comentário: Meu amigo é um bom pc para quem trabalha com photoshop e edição de video ou trava
+Classificação: Positivo
+Probabilidade da classe positiva: 0.5962
+
+Comentário: tem o video completo
+Classificação: Positivo
+Probabilidade da classe positiva: 0.6618
+
+Comentário: Meu ecossistema ainda é iPhone e AW Meu próximo item com certeza vai ser um MacBook Vai ter q ser 16Gb RAM exatamente pra durar mtos anos Esse estou encontrando de R 8k
+Classificação: Negativo
+Probabilidade da classe positiva: 0.3160
+
+Comentário: Laptop Excelente sim claro mas precisa trazer pra o Brasil com teclado ABNT2 pra ontem
+Classificação: Positivo
+Probabilidade da classe positiva: 0.6411
+
+Comentário: Primeiro fixa
+Classificação: Negativo
+Probabilidade da classe positiva: 0.4000
+
+Comentário: Existe algum notebook que tenha a mesma praticidade que o mac em abrir e fechar a tampa com 1 dedo
+Classificação: Positivo
+Probabilidade da classe positiva: 0.5052
+
+Comentário: E como é o qual Office ou se funciona
+Classificação: Negativo
+Probabilidade da classe positiva: 0.4738
+
+Comentário: Ganhei um MacBook Air da minha filha que mora nos Estados Unidos e não consigo conectar no meu celular
+Classificação: Positivo
+Probabilidade da classe positiva: 0.5415
+
+Comentário: O armazenamento não morre em poucos anos devido ao alto uso de swap de memória
+Classificação: Negativo
+Probabilidade da classe positiva: 0.4779
+
+Comentário: Peguei meu MacBook Air M1 novo Num preço tão bom na magazine luiza
+Classificação: Positivo
+Probabilidade da classe positiva: 0.5716
+
+Comentário: Comprei o meu hj
+Classificação: Positivo
+Probabilidade da classe positiva: 0.7505
+
+Comentário: Valor e onde comprou
+Classificação: Positivo
+Probabilidade da classe positiva: 0.6620
+
+Comentário: Ainda vale em 2025
+Classificação: Positivo
+Probabilidade da classe positiva: 0.6373
+
+Comentário: Top para produção musical roda legal Nessa configuração
+Classificação: Negativo
+Probabilidade da classe positiva: 0.4492
+
+Comentário: Muito obrigada por usar a sua voz normal para falar no vídeo
+Classificação: Positivo
+Probabilidade da classe positiva: 0.6360
+
+Comentário: o teclado dele tem iluminação
+Classificação: Positivo
+Probabilidade da classe positiva: 0.5745
+
+Comentário: 8gb de vram tem uma placa de video de 8gb
+Classificação: Negativo
+Probabilidade da classe positiva: 0.4371
+
+Comentário: qual a versão desse macbook que tem 8gb de vram
+Classificação: Negativo
+Probabilidade da classe positiva: 0.4559
+
+Comentário: Alguém sabe dizer se ele roda o Serato DJ de boa
+Classificação: Positivo
+Probabilidade da classe positiva: 0.5699
+
+Comentário: Quanto vale um desse
+Classificação: Negativo
+Probabilidade da classe positiva: 0.4804
+
+Comentário: Comprei um ontem acho que chega depois de amanhã Nunca usei Macbook sou professora espero que me ajude pq meu Samsung morreu depois de 9 anos rs
+Classificação: Positivo
+Probabilidade da classe positiva: 0.6518
+
+Comentário: Consigo usar programa promob e renderizar no mcbook Obrigado
+Classificação: Positivo
+Probabilidade da classe positiva: 0.5791
+
+Comentário: Qual o sentido deste aparelho Para quem é rico tudo bem quer comprar algo mais básico para o dia a dia e quer ter mais segurança e a Apple tem suas vantagens agora para o pobre que não tem nem casa para morar direito e da tripa coração para ter algo que atende o básico sendo que tem nootbook muito mais barato é poderoso em processamento esse aí nem para mexer em programas jogos mais pesados serve e detalhe por quase 12 000 Brasileiro sendo brasileiro mesmo viu detalhe isso serve para os celulares também status é você viver bem ter conforto e dinheiro no bolso escolher qual carro vai usar o pobre é andar com o símbolo da maçã é ter parcela para pagar do mesmo produto em 24 vezes o povo matuto esse
+Classificação: Positivo
+Probabilidade da classe positiva: 0.6222
+
+Comentário: Estou em duvida se pego um M1 devido o relato de problemas com a tela quebrando facil para o meu uso o M1 é mais que suficiente porém tenho receio de ter problema cedo com a tela ou de parar de atualizar em breve vc teve algum problema com a tela
+Classificação: Positivo
+Probabilidade da classe positiva: 0.5496
+
+Comentário: Fala meu amigo Eu tenho um notebook antigo já bem cansado da Samsung de 2016 Vou começar a faculdade de Engenharia de Software este ano e estou pensando em pegar um MacBook para ter uma experiência diferente e nova Minhas dúvidas são pego um com chip M1 e 8GB de RAM ou um M2 com 16GB de RAM
+Classificação: Positivo
+Probabilidade da classe positiva: 0.5184
+
+Comentário: Como imprimi cartaz com 9 folhas no MacBook Air
+Classificação: Positivo
+Probabilidade da classe positiva: 0.5026
+
+Comentário: Alguem sabe se é seguro comprar macbook no site icelo shop
+Classificação: Positivo
+Probabilidade da classe positiva: 0.5682
+
+Comentário: Tenho um é excelente Só peca por ter 8Gb de RAM sugiro que comprar pegar de 16GB de RAM pois as vezes da a mensagem de falta de memoria sem usar programas pesados
+Classificação: Positivo
+Probabilidade da classe positiva: 0.7047
+
+Comentário: O mais top é o Dell XPS17 igual ele não tem é outro nível
+Classificação: Negativo
+Probabilidade da classe positiva: 0.4646
+
+Comentário: usei um por alguns dias a experiência é sem igual porém se for fazer algo mais pesado tipo renderização de vídeo ou projetos 3d de arquitetura vai te deixar na mão jogos então vão fazer ele esquentar ainda que rode jogos simples
+Classificação: Positivo
+Probabilidade da classe positiva: 0.6989
+
+Comentário: Acabei de comprar um tbm tô aprendendo a mexer
+Classificação: Positivo
+Probabilidade da classe positiva: 0.6924
+
+Comentário: Quero comprar este macbook ai usado e vi um com 1 ano e pouquinho de uso com 92 de bateria Meu medo é essa bateria Será que 92 ainda está durando a bateria Quantas horas voce acha que vai durar
+Classificação: Negativo
+Probabilidade da classe positiva: 0.3611
+
+Comentário: Quero comprar este macbook ai usado e vi um com 1 ano e pouquinho de uso com 92 de bateria Meu medo é essa bateria Será que 92 ainda está durando a bateria Quantas horas voce acha que vai durar
+Classificação: Negativo
+Probabilidade da classe positiva: 0.3611
+
+Comentário: Costuma esquentar
+Classificação: Negativo
+Probabilidade da classe positiva: 0.4683
+
+Comentário: Eu Aqui Com Meu Macbook Pro 2012 I7 8 GB me atendendo muito bem ainda em 2025 kk
+Classificação: Positivo
+Probabilidade da classe positiva: 0.6920
+
+Comentário: acabei de fazer a oferta em um Macbook Air M1 com SSD de 512Gb ele aceitava Ipad no rolo daí já coloquei o meu vamos ver o que dá
+Classificação: Negativo
+Probabilidade da classe positiva: 0.4754
+
+Comentário: Ainda terei um pra trabalhar melhor
+Classificação: Positivo
+Probabilidade da classe positiva: 0.6051
+
+Comentário: Pra Autocad apenas funções de leitura será que funciona bem
+Classificação: Negativo
+Probabilidade da classe positiva: 0.3843
+
+Comentário: Bom dia amei
+Classificação: Positivo
+Probabilidade da classe positiva: 0.9428
+
+Comentário: Qual a orientação para fazer a primeira recarga no MacBook Air e assim ter o máximo desempenho para a vida útil da bateria
+Classificação: Positivo
+Probabilidade da classe positiva: 0.6257
+
+Comentário: Realmente muito bom estou usando o meu faz 3 anos e está muito bom Escutar música nele é bom demais Levar ele na mochila é muito fácil e leve No dia a dia nem levo o carregador não precisa o consumo de energia dele é muito bom Sempre usei windows e tenho o meu note Gamer mas levar ele é pesado demais
+Classificação: Positivo
+Probabilidade da classe positiva: 0.9683
+
+Comentário: Tô em duvida entre ele e um Novo Inspiron i5 16GB O que faço
+Classificação: Negativo
+Probabilidade da classe positiva: 0.4968
+
+Comentário: Fl no Mac
+Classificação: Negativo
+Probabilidade da classe positiva: 0.4841
+
+Comentário: Manoo tira uma dúvida Pra produção musical o recomendado seria a versão Pro O que achou do uso do Fl Studio no Air
+Classificação: Negativo
+Probabilidade da classe positiva: 0.4857
+
+Comentário: Funciona fora da tomada ligado em monitor externo Ou é obrigado tá ligado na tomada pra funcionar com monitor externo
+Classificação: Negativo
+Probabilidade da classe positiva: 0.2849
+
+Comentário: qual cor é essa silver
+Classificação: Negativo
+Probabilidade da classe positiva: 0.4912
+
+Comentário: Em questão de preço da pra comprar notebooks melhores com o mesmo valor
+Classificação: Negativo
+Probabilidade da classe positiva: 0.4029
+
+Comentário: Custou um rim ou dois
+Classificação: Negativo
+Probabilidade da classe positiva: 0.3131
+
+Comentário: O meu Air m3 trava
+Classificação: Negativo
+Probabilidade da classe positiva: 0.3409
+
+Comentário: Gente o que ele faz de diferente de um notebook normal Só queria entender pq o valor tão alto para um macbook do ano de 2010 2013 são mais caros que um notebook só queria saber mesmo Obrigada
+Classificação: Negativo
+Probabilidade da classe positiva: 0.3360
+
+Comentário: Estou pesquisado acho vou entra para Estudar você me Endica meu Irmão para estudar
+Classificação: Positivo
+Probabilidade da classe positiva: 0.5526
+
+Comentário: Lucas esse modelo da conta de programas como o Photoshop e o Illustrator Quais upgrades recomenda
+Classificação: Positivo
+Probabilidade da classe positiva: 0.5045
+
+Comentário: Kim Kataguiri tá fazendo um extra no YouTube
+Classificação: Negativo
+Probabilidade da classe positiva: 0.4834
+
+Comentário: Uma correção não é vram é ram vram é da placa de vídeo
+Classificação: Negativo
+Probabilidade da classe positiva: 0.2998
+
+Comentário: Vc recomenda usar uma película na tela do MacBook Pra evitar arranhões e que o teclado toque na tela
+Classificação: Negativo
+Probabilidade da classe positiva: 0.3941
+
+Comentário: A pergunta que não quer calar vale a pena para estudo e atividades leves Ou o preço ainda não vale por você poder pega coisa muito melhor mesmo que não use
+Classificação: Positivo
+Probabilidade da classe positiva: 0.5240
+
+Comentário: VRAM O quê
+Classificação: Negativo
+Probabilidade da classe positiva: 0.3607
+
+Comentário: A performance desses processadores da Apple realmente é um absurdo Tenho um MBP M1 de 16GB RAM e 256GB de armazenamento e uso para desenvolvimento de software Uso junto com um NVMe externo e não tenho problema algum com armazenamento Mas nem tudo são flores pra mim os pontos negativos são sistema e teclado Teclado A versão PT o Left Shift não é do tamanho do Shift do teclado americano por exemplo então pra usar Ctrl Shift não é nada anatômico mas claro da pra configurar para o Fn virar um Ctrl ou Command mas ai as labels podem gerar confusão Sistema por mais que o sistema seja bem otimizado sinto muita falta da flexibilidade que um Linux me entrega Mas no geral é um ótimo computador
+Classificação: Negativo
+Probabilidade da classe positiva: 0.4588
+
+Comentário: 256GB é o básico do básico o ideal é 512GB pra cima
+Classificação: Negativo
+Probabilidade da classe positiva: 0.3391
+
+Comentário: Qual o valor de um desses mais ou menos
+Classificação: Negativo
+Probabilidade da classe positiva: 0.3884
+
+Comentário: Brother me tira uma dúvida pra produção musical ele esquenta muito Tô com medo de comprar e ele não suportar os programas porque vai esquentar Abraço bro
+Classificação: Negativo
+Probabilidade da classe positiva: 0.3561
+
+Comentário: Mac é o unico produto da Apple que realmente é diferenciado e vale a pena
+Classificação: Positivo
+Probabilidade da classe positiva: 0.6218
+
+Comentário: Ele roda todos os sistemas e apps do Windows
+Classificação: Positivo
+Probabilidade da classe positiva: 0.6929
+
+Comentário: Ótimo vídeo mas só uma pequena correção na Apple touchpad é chamado de trackpad
+Classificação: Positivo
+Probabilidade da classe positiva: 0.5881
+
+Comentário: Adorei esse note Pontos positivos leve rápido teclado retroiluminado acabamento premium bateria dura muito Pontos negativos acostumar com o tipo de teclado e atalhos MacOS é legal e o que não sei eu recorro ao suporte da Apple Tem coisas que difere significativamente do Windows
+Classificação: Positivo
+Probabilidade da classe positiva: 0.8863
+
+Comentário: Cade o review
+Classificação: Negativo
+Probabilidade da classe positiva: 0.4310
+
+Comentário: 3700 um novo nos EUA 6k um aqui
+Classificação: Negativo
+Probabilidade da classe positiva: 0.3678
+
+Comentário: qual mic voce usa na narração desses videos Fica mt bom
+Classificação: Positivo
+Probabilidade da classe positiva: 0.6156
+
+Comentário: Eu tenho um air m2 de 15 polegadas muito top
+Classificação: Positivo
+Probabilidade da classe positiva: 0.5489
+
+Comentário: Boa tarde Lucas pode por favor me dizer se a bateria tem um bom desempenho quando o Mac está sendo forçado em um jogo ou programas mais pesados por exemplo Estou pensando em comprar um M1 PRO porém n acho nenhum conteúdo que fala isso
+Classificação: Positivo
+Probabilidade da classe positiva: 0.6218
+
+Comentário: Que bosta um Mac é tão caro e não entrega porra nenhuma igual iPhone do 13 pra cima Prefiro qualquer notebook seja Lenovo Samsung
+Classificação: Negativo
+Probabilidade da classe positiva: 0.2114
+
+Comentário: Consigo usar dois monitores estendidos no m1
+Classificação: Negativo
+Probabilidade da classe positiva: 0.4141
+
+Comentário: comprei o meu essa semana outro nivel
+Classificação: Positivo
+Probabilidade da classe positiva: 0.6827
+
+Comentário: Acabei de vender o meu Fiquei uns 2 anos nao consegui adaptar ao macOS
+Classificação: Negativo
+Probabilidade da classe positiva: 0.4540
+
+Comentário: Bem vindo ao mundo dos melhores computadores que se pode ter rsrss
+Classificação: Positivo
+Probabilidade da classe positiva: 0.7821
+
+Comentário: Se eu subir umas instância em Docker de ao menos 3 projetos ele trava Apple tá se confiando muito no OS dele só tenho pra fazer as aplicações da Apple já que a mesma restringe
+Classificação: Negativo
+Probabilidade da classe positiva: 0.1866
+
+Comentário: Rapaiz eu to com um M3 18 1TB não dá nem pra sentir saudades do Windows A não ser que seja pra jogar mas pra trabalhar uso dia a dia é coisa de outro mundo Fora que a sensação de ter algo premium na mão é indiscutível construção e tela maravilhosos e trackpad do MacBook é algo incomparável
+Classificação: Negativo
+Probabilidade da classe positiva: 0.4846
+
+Comentário: Será q o MacOS é melhor em programar do q o Windows Se s cite exemplos q o Mac seja melhor
+Classificação: Negativo
+Probabilidade da classe positiva: 0.3119
+
+Comentário: É simplesmente um caminho sem volta
+Classificação: Negativo
+Probabilidade da classe positiva: 0.3153
+
+Comentário: Uso há 3 anos e ainda não vejo todo esse encanto que o pessoal fala é um ótimo produto mas me parece que a maioria vai pelo status de ter um mac
+Classificação: Positivo
+Probabilidade da classe positiva: 0.8334
+
+Comentário: Quem quer produtividade Mac é fora da caixa depois de décadas só com laptop windows me rendi ao Macbook em 2023 já usava iPhone e iPad no dia a dia e só posso dizer quão bom é todo o ecossistema O iPad voce pode usar como segunda tela do Macbook sem cabos sem fios aparecendo sem nada Como eu viajo bastante em ajuda demais tudo isso Ainda dá pra usar a camera do iPhone pra fazer reuniões e a qualidade fica fora do real Bateria Dura o dia todo trabalhando 10 12 horas por dia com Facebook Ads e edições no photoshop
+Classificação: Positivo
+Probabilidade da classe positiva: 0.7332
+
+Comentário: Parabéns pela aquisição
+Classificação: Positivo
+Probabilidade da classe positiva: 0.8297
+
+Comentário: Melhor note sem dúvidas comprei um air m2 esse mês ainda me pergunto pq demorei tanto simplesmente não dá vontade nem de usar teclado nem monitor externo de tão top que são tecladinho delicinha demais touch perfeito produtividade dos gestos é surreal bateria nunca vi igual
+Classificação: Positivo
+Probabilidade da classe positiva: 0.6065
+
+Comentário: Teclado retroiluminado
+Classificação: Positivo
+Probabilidade da classe positiva: 0.6576
+
+Comentário: Já testou com jogos Essa é minha dúvida em relação ao macOs
+Classificação: Positivo
+Probabilidade da classe positiva: 0.5623
+
+Comentário: Tenho um pro 2012 e pra o meu uso e perfeito se tivesse mais grana lógico que ia para o m1 mas esse drsing premium se vc pegar um pro de 2009 encontra Kkkkk
+Classificação: Positivo
+Probabilidade da classe positiva: 0.6069
+
+Comentário: MacBook está anos luz à frente em termos de performance O grande porém é que nem todos os softwares estão disponíveis Mas no uso geral simplesmente imbatível Só critica quem nunca testou
+Classificação: Positivo
+Probabilidade da classe positiva: 0.6023
+
+Comentário: Ta pagando bot pra interagir com o canal
+Classificação: Negativo
+Probabilidade da classe positiva: 0.2644
+
+Comentário: Queria saber como é a Apple em relação a games
+Classificação: Positivo
+Probabilidade da classe positiva: 0.5753
+
+Comentário: Comprou pela Grabr Vale a pena comprar mac por lá
+Classificação: Positivo
+Probabilidade da classe positiva: 0.7496
+
+Comentário: Teste jogos e DaVinci Resolve
+Classificação: Positivo
+Probabilidade da classe positiva: 0.6290
+
+Comentário: 8gb de vram fodase
+Classificação: Negativo
+Probabilidade da classe positiva: 0.3425
+
+Comentário: Comprei um estou usando para desenvolvimento web e realmente esse Mac é incrível
+Classificação: Positivo
+Probabilidade da classe positiva: 0.9248
+
+Comentário: meu deus pessoal que notebook
+Classificação: Positivo
+Probabilidade da classe positiva: 0.5303
+
+Comentário: Já tive vários laptops ao longo dos anos mas nenhum se compara ao MacBook Air É uma experiência totalmente diferente
+Classificação: Positivo
+Probabilidade da classe positiva: 0.9221
+
+Comentário: Minha produtividade triplicou desde que comecei a usar o MacBook Air É simplesmente incrível o que ele pode fazer
+Classificação: Positivo
+Probabilidade da classe positiva: 0.9345
+
+Comentário: Se você quer um computador que se adapte ao seu estilo de vida movimentado não procure mais O MacBook Air é a solução perfeita
+Classificação: Positivo
+Probabilidade da classe positiva: 0.7625
+
+Comentário: Uma dica usa os widgets igual no iPhone e outra dica é ver um tutorial no YouTube de pelo menos uns 30 minutos pra aprender os gestos em geral
+Classificação: Negativo
+Probabilidade da classe positiva: 0.4069
+
+Comentário: Passei anos usando outros laptops mas assim que experimentei o MacBook Air não houve volta É incomparável
+Classificação: Positivo
+Probabilidade da classe positiva: 0.9446
+
+Comentário: O MacBook Air é como o canivete suíço da tecnologia compacto poderoso e sempre pronto para o que der e vier
+Classificação: Positivo
+Probabilidade da classe positiva: 0.9490
+
+Comentário: Difícil imaginar minha vida sem meu MacBook Air agora Ele se tornou essencial para tudo
+Classificação: Positivo
+Probabilidade da classe positiva: 0.8318
+
+Comentário: Não sei como sobrevivi sem meu MacBook Air É como ter um super herói da tecnologia ao seu lado
+Classificação: Positivo
+Probabilidade da classe positiva: 0.7516
+
+Comentário: Se você está em dúvida pare agora e compre um MacBook Air Você não vai se arrepender
+Classificação: Positivo
+Probabilidade da classe positiva: 0.7692
+
+Comentário: Quando se trata de desempenho e praticidade o MacBook Air é imbatível Eu amo o meu
+Classificação: Positivo
+Probabilidade da classe positiva: 0.9235
+
+Comentário: Para quem pensa em adquirir um MacBook Air SIM vale cada centavo
+Classificação: Positivo
+Probabilidade da classe positiva: 0.7019
+
+Comentário: o melhor canal de tec
+Classificação: Positivo
+Probabilidade da classe positiva: 0.7720
+
+Comentário: Com o MacBook Air você terá o melhor dos dois mundos portabilidade e poder Experimente agora
+Classificação: Positivo
+Probabilidade da classe positiva: 0.8683
+
+Comentário: Não deixe seu trabalho atrasar por causa de um computador lento Este MacBook Air vai garantir que você esteja sempre à frente
+Classificação: Positivo
+Probabilidade da classe positiva: 0.8390
+
+Comentário: Este MacBook Air é a combinação perfeita de estilo e desempenho Prepare se para se apaixonar à primeira vista
+Classificação: Positivo
+Probabilidade da classe positiva: 0.9431
+
+Comentário: Leve poderoso e pronto para qualquer desafio Descubra o que o MacBook Air pode fazer por você
+Classificação: Positivo
+Probabilidade da classe positiva: 0.9124
+
+Comentário: Diga adeus aos problemas de desempenho e dê as boas vindas à eficiência impecável com este MacBook Air
+Classificação: Positivo
+Probabilidade da classe positiva: 0.8806
+
+Comentário: Simplesmente deslumbrante Este MacBook Air vai conquistar seu coração com sua beleza e eficiência
+Classificação: Positivo
+Probabilidade da classe positiva: 0.9696
+
+Comentário: Quer elevar sua produtividade para o próximo nível Este MacBook Air tem tudo que você precisa e muito mais
+Classificação: Positivo
+Probabilidade da classe positiva: 0.8886
+
+Comentário: Prepare se para ser surpreendido pela potência e elegância do MacBook Air Não perca
+Classificação: Positivo
+Probabilidade da classe positiva: 0.9230
+
+Comentário: Você está procurando um desempenho impecável em um pacote compacto Este MacBook Air é a escolha perfeita para você
+Classificação: Positivo
+Probabilidade da classe positiva: 0.8910
+
+Comentário: Luqueta manda muito
+Classificação: Positivo
+Probabilidade da classe positiva: 0.6707
+
+Comentário: amor
+Classificação: Positivo
+Probabilidade da classe positiva: 0.7624
+
+Comentário: o melhor creator
+Classificação: Positivo
+Probabilidade da classe positiva: 0.8172
+
+Comentário: o melhor criador de conteúdo
+Classificação: Positivo
+Probabilidade da classe positiva: 0.8413
+
+Comentário: Vc vai ver que é um caminho sem volta sem contar quem joga é claro que aí tem que ser Windows se vc testar um MacBook Pro M3 Pro vai ter a mesma sensação que teve com o trackpad ahahaha
+Classificação: Negativo
+Probabilidade da classe positiva: 0.2729
+
+Comentário: Mac é muito top pena que é muito caro
+Classificação: Positivo
+Probabilidade da classe positiva: 0.6143
+
+Comentário: melhor
+Classificação: Positivo
+Probabilidade da classe positiva: 0.5771
+
+Comentário: d
+Classificação: Positivo
+Probabilidade da classe positiva: 0.5168
+
+Comentário: Os caras não respondem um comentário O Canal é bom mas a atenção em responder os inscritos é péssimo
+Classificação: Negativo
+Probabilidade da classe positiva: 0.0906
+
+Comentário: Quase comprei ele porém o loq com a 4060 compensava mt mais pr meu dia a dia
+Classificação: Positivo
+Probabilidade da classe positiva: 0.5601
+
+Comentário: Design Premium O bagulho superaquece com qualquer workload e comeca a perder desempenho em tipo 2 minutos essa bosta tem um chip absurdo de forte mas tem um sistema de resfriamento patético no nível de smartphone A apple ainda tem a coragem de vender versão com 8GB de RAM soldada no chip pra otário comprar e achar que tá arrasando
+Classificação: Negativo
+Probabilidade da classe positiva: 0.1838
+
+Comentário: Finalmente um mac no canal
+Classificação: Positivo
+Probabilidade da classe positiva: 0.5019
+
+Comentário: Podi ter comprado o meu estou vendendo E o meu ainda tem applecare até Nov 2024
+Classificação: Positivo
+Probabilidade da classe positiva: 0.6558
+
+Comentário: Vram
+Classificação: Negativo
+Probabilidade da classe positiva: 0.4895
+
+Comentário: isso que da ter aulas com rod grossi contem ironia nada contra
+Classificação: Negativo
+Probabilidade da classe positiva: 0.3068
+
+Comentário: Por 16k eu vendo minha moto e intero pra comprar um carro popular
+Classificação: Negativo
+Probabilidade da classe positiva: 0.3459
+
+Comentário: Comprei um por 1249 euros mas com 512gb e 16gr
+Classificação: Negativo
+Probabilidade da classe positiva: 0.4946
+
+Comentário: Eu tenho um MacBook Air m1 e comprei um m4 agora achei a construção do M1 mais robusta realmente parece alumínio do m4 parece um plástico premium
+Classificação: Negativo
+Probabilidade da classe positiva: 0.4557
+
+Comentário: Acho que tô daltônico Isso pra mim é cinza kkkk
+Classificação: Negativo
+Probabilidade da classe positiva: 0.3616
+

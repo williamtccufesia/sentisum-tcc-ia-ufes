@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pesquisa no YouTube</title>
+
+    <!-- Inclua os arquivos CSS e JavaScript do Bootstrap -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <style>
+        body {
+            background-color: #f5f5f5;
+        }
+
+        .card-center {
+            max-width: 720px;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container mt-5">
+        <div class="card card-center shadow-sm">
+            <div class="card-body">
+                <h1 class="text-center mb-4">Pesquisa no YouTube</h1>
+                <form action="/search" method="POST">
+                    <div class="form-group">
+                        <label for="search_query">Digite o termo de pesquisa:</label>
+                        <input type="text" class="form-control" id="search_query" name="search_query"
+                            placeholder="ex.: celular, fone de ouvido" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="max_results">Quantidade de Vídeos:</label>
+                        <input type="number" class="form-control" id="max_results" name="max_results" min="1" value="3"
+                            required>
+                        <small class="form-text text-muted">Número máximo de vídeos a buscar (padrão: 3).</small>
+                    </div>
+
+                    <div class="text-center">
+                        <button type="submit" class="btn btn-primary">Pesquisar</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <footer class="text-center mt-4 text-muted">
+            <small></small>
+        </footer>
+    </div>
+</body>
+
+</html>
