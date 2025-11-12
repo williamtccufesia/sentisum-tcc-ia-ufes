@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resultados da Pesquisa</title>
+
+    <!-- CSS personalizado -->
+    <link rel="stylesheet" href="seu-estilo.css">
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <!-- Plotly -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+
+<body style="background-color: #f5f5f5;">
+    <div class="container mt-5">
+        <h1 class="text-center mb-4">Resultados da Pesquisa</h1>
+
+        <div class="mb-4">
+            <p><strong>Termo de Pesquisa:</strong> {{ search_query }}</p>
+        </div>
+
+        <!-- Gráfico Geral -->
+        <div class="mb-5">
+            <h2 class="text-center">Gráfico Geral</h2>
+            <div class="row mt-3">
+                <div class="col-md-6">
+                    <p class="mb-0"><strong>Total de Comentários Positivos:</strong> {{ overall_total_positivos }}</p>
+                </div>
+                <div class="col-md-6 text-right">
+                    <p class="mb-0"><strong>Total de Comentários Negativos:</strong> {{ overall_total_negativos }}</p>
+                </div>
+            </div>
+            <div id="overall_sentiment_chart"></div>
+        </div>
+
+        <!-- Recomendação Geral -->
+        <h2 class="text-center mt-4">Recomendação Geral</h2>
+        <div class="alert {{ 'alert-success' if overall_total_positivos >= overall_total_negativos else 'alert-danger' }}"
+            role="alert">
+            {% if overall_total_positivos >= overall_total_negativos %}
+            O produto é recomendado com base nos comentários positivos!
+            {% else %}
+            Cuidado: Os comentários negativos superam os positivos para este produto.
+            {% endif %}
+        </div>
+
+        <!-- Resumo Global -->
+        <div class="mt-5">
+            <h2 class="text-center">Resumo Geral dos Comentários</h2>
+            <div class="card shadow-sm mt-3 border-primary">
+                <div class="card-body">
+                    <p class="text-justify mb-0">{{ resumo_global }}</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Análise por Vídeo -->
+        <h2 class="text-center mt-5">Análise por Vídeo</h2>
+        <div class="row mt-3">
+            {% for result in video_results %}
+            <div class="col-md-6 mb-4">
+                <div class="card shadow-lg border-0 h-100 
+                    {% if result.positives >= result.negatives %} border-success {% else %} border-danger {% endif %}">
+                    <div class="card-body">
+                        <h4 class="card-title">{{ result.video_title }}</h4>
+                        <p class="card-text text-muted">{{ result.video_description }}</p>
+
+                        <div class="row mb-2">
+                            <div class="col-md-6">
+                                <p class="mb-0"><strong>Positivos:</strong> {{ result.positives }}</p>
+                            </div>
+                            <div class="col-md-6 text-right">
+                                <p class="mb-0"><strong>Negativos:</strong> {{ result.negatives }}</p>
+                            </div>
+                        </div>
+
+                        <!-- Resumo -->
+                        <div
+                            class="card mt-3 shadow-sm 
+                            {% if result.positives >= result.negatives %} border-success {% else %} border-danger {% endif %}">
+                            <div class="card-body">
+                                <p class="mb-0"><b>Resumo:</b> {{ result.resumo }}</p>
+                            </div>
+                        </div>
+
+                        <!-- Gráfico -->
+                        <div id="sentiment_chart_{{ loop.index }}" class="mt-3"></div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                var sentimentData{{ loop.index }} =[
+                    {
+                        x: ['Positivos', 'Negativos'],
+                        y: [{{ result.positives }}, {{ result.negatives }}],
+                    type: 'bar',
+                        marker: { color: ['blue', 'orange'] }
+                    }
+                ];
+                var sentimentLayout{{ loop.index }} = {
+                    title: 'Resumo de Sentimento',
+                        xaxis: { title: 'Sentimento' },
+                    yaxis: { title: 'Número de Comentários' }
+                };
+                Plotly.newPlot('sentiment_chart_{{ loop.index }}', sentimentData{{ loop.index }}, sentimentLayout{{ loop.index }});
+            </script>
+            {% endfor %}
+        </div>
+
+        <script>
+            var overall_total_positivos = {{ overall_total_positivos }};
+            var overall_total_negativos = {{ overall_total_negativos }};
+            var overallSentimentData = [
+                {
+                    x: ['Positivos', 'Negativos'],
+                    y: [overall_total_positivos, overall_total_negativos],
+                    type: 'bar',
+                    marker: { color: ['green', 'red'] }
+                }
+            ];
+            var overallSentimentLayout = {
+                title: 'Resumo Geral de Sentimento',
+                xaxis: { title: 'Sentimento' },
+                yaxis: { title: 'Número de Comentários' }
+            };
+            Plotly.newPlot('overall_sentiment_chart', overallSentimentData, overallSentimentLayout);
+        </script>
+    </div>
+</body>
+
+</html>
